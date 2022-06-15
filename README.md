@@ -1,2 +1,2 @@
-# Car-Rental-Record-System-C-Programming-Project
+# Car-Rental-Record-System-C-Programming-Project developed by Ahmed Bin Delowar
 Car Rental Record System is a project in C that can help students to understand the basic concepts of functions, file handling and data structure. Adding new records of car renters, listing them, modifying them and updating, search for saved record, and deleting the records are the basic functions which make up the main menu of this Car Rental Record System.  The Car Rental Record System has a unique style of coding and is presented in a colorful manner.  It uses files as database to perform file handling operations such as add, search, modify and delete records to manage car renters records.
